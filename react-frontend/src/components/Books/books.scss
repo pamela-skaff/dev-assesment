@@ -1,0 +1,16 @@
+
+@media (min-width: 576px) {
+  .card-columns {
+    .card {
+      height: 420px;
+    }
+    column-count: 6 !important;
+  }
+}
+
+.pageTitle{
+  color: gray;
+  font-size: medium;
+  text-align:left;
+  padding-left: 1%;
+}
